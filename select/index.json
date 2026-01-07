@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "muque - bestie(Official Music Video)",
+  "base_artist": "muque",
+  "createdAt": "2026-01-07T06:25:46.448151Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bestie",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_bestie_muque.txt"
+    }
+  ]
+}
